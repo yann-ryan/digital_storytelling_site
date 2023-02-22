@@ -1,0 +1,154 @@
+---
+title: "Stories through Data Visualisation"
+editor: visual
+---
+
+## Description
+
+In this section you'll learn the basics of data visualization, starting with how to create and interpret simple charts, before moving to more advanced mapping and networks. We will explore how color, size, shape and so forth are interpreted in the context of the humanities. We will look at some exemplary DH visualisation projects, and learn how to critique them.
+
+We will also consider the ethics of data visualization, looking at some cases where data visualisation obscures or misleads.
+
+We will cover:
+
+-   History of data visualisation
+
+-   Basic principles of information visualisation, i.e. colour theory, how to avoid misleading charts, how to convey meaning through geometry, colour, shape, position, and so forth.
+
+-   A variety of static data visualisation techniques, such as:
+
+    -   How to use and read bar/line/scatter plots
+
+    -   Digital mapping
+
+    -   Network visualisations
+
+-   Issues of ethics and representation in data visualisation
+
+## Resources used
+
+Here are some of the (mostly web-based) applications we'll use in-class in this section:
+
+-   [Palladio](http://hdlab.stanford.edu/palladio/)
+
+-   [Gephi](https://gephi.org/)
+
+-   [Network Navigato](https://networknavigator.jrladd.com/)r
+
+-   [Rawgraphs.io](https://www.rawgraphs.io/)
+
+Week 1 (6 February)
+
+-   [Week 1 slides](dsh-week1-introduction.pdf)
+
+## Week 2 (13 February):
+
+#### Read before class:
+
+-   Isabel Mereilles, *Design for Information,* 'Introduction' ([ebook available through Library catalogue](https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA51257896950002711))
+
+-   https://www.revunit.com/post/the-role-of-color-theory-in-data-visualization
+
+-   [Johanna Drucker, 'Humanities Approaches to Graphical Display', *Digital Humanities Quarterly* 005, no. 1 (10 March 2011).](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)
+
+#### During class:
+
+-   Intro to basic design principles, colour theory, 'data ink'
+
+-   Introduction to standard data visualisations: bar plots, scatter plots, line graphs
+
+#### For next week:
+
+-   Explore rawgraphs.io. Create a data visualisation, preferably using some dataset you are interested in. Write 1 paragraph (200 words) describing what we are looking at. Upload to Brightspace before Sunday
+
+## Week 3 (20 February)
+
+#### Read:
+
+-   [Edward Tufte, *The Visual Display of Quantitative Information* (Cheshire: 2001)](http://faculty.salisbury.edu/~jtanderson/teaching/cosc311/fa21/files/tufte.pdf): Chapters 1 & 4.
+-   Isabel Mereilles, *Design for Information,* 'Chapter 4 (Spatial Structures: Maps)' ([ebook available through Library catalogue](https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA51257896950002711))
+
+#### During class:
+
+-   History of data visualisation
+
+-   Peer feedback on rawgraphs.io
+
+-   Hands-on work with StoryMap or Palladio
+
+#### For next week:
+
+-   Create a map using Storymap or Palladio. Upload the url link to Brightspace by 26 February.
+
+## Week 4 (27 February):
+
+#### Read:
+
+-   Isabel Mereilles, *Design for Information,* 'Chapter 2 (Relational Structures: Networks)' ([ebook available through Library catalogue](https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA51257896950002711))
+
+#### Other texts:
+
+-   Chapter 4, 'Visualising Networks', in Ahnert, R., Ahnert, S., Coleman, C., & Weingart, S. (2021). *The Network Turn: Changing Perspectives in the Humanities* (Elements in Publishing and Book Culture). Cambridge: Cambridge University Press. doi:10.1017/9781108866804
+
+-   Venturini, T., Jacomy, M., & Jensen, P. (2021). What do we see when we look at networks: Visual network analysis, relational ambiguity, and force-directed layouts. *Big Data & Society*, *8*(1). <https://doi.org/10.1177/20539517211018488>
+
+#### During class
+
+-   Peer feedback on StoryMap/Palladio map
+
+-   Hands-on with Gephi (or Palladio graphs/Vistorian if not installed)
+
+#### For next week
+
+-   Continue working with Gephi/Palladio
+
+## Week 5 (6 March)
+
+#### Read:
+
+-   Isabel Mereilles, *Design for Information,* 'Chapter 3 (Temporal structures: timelines and flows)' ([ebook available through Library catalogue](https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA51257896950002711))
+-   https://medium.com/nightingale/strange-times-visualizing-the-oddities-of-time-data-bc1fee487153
+
+#### During class
+
+-   Some network theory
+-   Hands-on session with temporal data visualisation app
+
+For next week:
+
+-   Create **either** a network visualisation with Palladio, Vistorian, Gephi, nodegoat etc, or a temporal visualization. Upload to Brightspace by Sunday 5 March.
+
+## Week 6 (13 March)
+
+#### Read:
+
+-   [Olivia Vane and Rosamund Pearce, 'How to Visualise Sensitive Topics'](https://view.e.economist.com/?qs=f4d0eecea29f1f91774da16cecf280cb31af5fbc06a5916a37f22c049437192916c8af311beed6f52e3ef7e985b7d44f421f783c3fa3272cc08649f97dca80cc14f33497c6a1b1f485f718837a4f7f5a)
+
+-   [Alex Selby-Boothroyd, 'Mapping Refugee Flows'](https://view.e.economist.com/?qs=857a751c0e864d3ba45ac0e90aa6ef007db79f778e542dbf21c28f42244b8a3ffee2e8aae4c8a260eb93e716a66edfb0f42e240a6e188df9c5e1ac38c75fce8f91e421db50aa777e57e48fdab6644bed&utm_campaign=r.data-newsletter&utm_medium=email.internal-newsletter.np&utm_source=salesforce-marketing-cloud&utm_term=6/21/2022&utm_id=1209740)
+
+-   https://it.wisc.edu/learn/accessible-content-tech/accessible-data-visualizations/
+
+#### Other reading:
+
+-   Katherine Hepworth and Christopher Church, 'Racism in the Machine: Visualization Ethics in Digital Humanities Projects', *Digital Humanities Quarterly* 012, no. 4 (4 February 2019).
+
+-   Stephen Boyd Davis, Olivia Vane & Florian Kräutli (2021) Can I believe what I see? Data visualization and trust in the humanities, Interdisciplinary Science Reviews, 46:4, 522-546, DOI: [10.1080/03080188.2021.1872874](https://doi.org/10.1080/03080188.2021.1872874)
+
+#### During class:
+
+-   Peer feedback on network/temporal visualisations
+-   Discussion on first assignment
+
+#### Before next week:
+
+-   **First full assignment (critique of digital story) is due on March 19**
+
+## Week 7 (20 March)
+
+#### Read:
+
+-   [Edward Tufte, *The Visual Display of Quantitative Information* (Cheshire: 2001)](http://faculty.salisbury.edu/~jtanderson/teaching/cosc311/fa21/files/tufte.pdf): Chapters 2 & 5.
+
+#### During class:
+
+-   Discuss critique of digital story

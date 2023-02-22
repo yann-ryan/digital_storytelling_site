@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "Digital Storytelling for the Humanities"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: overview.qmd
+        text: Overview
+      - schedule.qmd
+      - text: Sections
+        menu:
+          - href: "section-1.qmd"
+            text: "Stories through Data Visualisation"
+          - href: "section-2.qmd"
+            text: "Interactivity and the Humanities"
+          - href: "section-3.qmd"
+            text: "Sharing Stories"
+      - text: Assignments
+        menu:
+          - href: "assignment0-1.qmd"
+            text: "Mini-assignment 1"
+          - href: "assignment0-2.qmd"
+            text: "Mini-assignment 2"
+          - href: "assignment-1.qmd"
+            text: "Assignment 1: Critique of a Digital Story"
+          - href: "assignment-2.qmd"
+            text: "Multiple Choice Quiz"
+          - href: "assignment-3.qmd"
+            text: "Assignment 2: Visual Portfolio"
+
+
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+    df-print: paged
+    rows.print: 25
+
+editor: visual
+
+execute:
+  echo: false
+  message: false
+  warning: false
+

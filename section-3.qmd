@@ -1,0 +1,52 @@
+---
+title: "Sharing our Stories"
+editor: visual
+---
+
+## Description
+
+The digital opens up new ways to share our stories, from blogs, to podcasts, through to tiktok videos. Digital exhibits, for example, allow us to draw together material from anywhere, and shape our own narrative around it. In this section, we'll explore some ways by which this can be done. We'll make and critique a digital exhibit, and be introduced to 'literate programming': a way of sharing the narrative around our research in a new way (no coding experience required).
+
+## Week 10 (24 April)
+
+#### Read before class:
+
+-   Reading on communication with wider audience etc.
+
+#### During class:
+
+-   Exhibit.so hands-on (including uploading to archive.org?)
+
+-   Demo of nodegoat interactives
+
+## Week 11 (1 May)
+
+#### Read before class:
+
+-   Design for information chapter
+
+#### During class:
+
+-   Share and discuss exhibits (thinking about information 'curation'
+
+#### For next week:
+
+-   Prepare on your visual portfolio
+
+## Week 12 (8 May)
+
+#### Read before class:
+
+-   Something on Jupyter notebooks/literate programming (labs?)
+
+#### During class:
+
+-   Google colab demo
+
+## Week 13 (15 May)
+
+#### During class:
+
+-   Discussion, summing up, feedback. Q&A for visual portfolio
+
+## Resources

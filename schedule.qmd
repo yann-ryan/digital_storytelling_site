@@ -1,0 +1,28 @@
+---
+title: "Schedule"
+---
+
+```{r, rows.print=15}
+
+library(kableExtra)
+library(tidyverse)
+library(lubridate)
+
+dates = c(seq(ymd('2023-02-06'),ymd('2023-03-20'), by = '1 week'),
+       ymd('2023-04-03'), ymd('2023-04-17'), 
+       seq(ymd('2023-04-24'), ymd('2023-05-22'), by = '1 week'))
+
+sections = c('', rep('Visualising Data', 5), rep("Interactivity", 5), rep("Sharing Stories", 3))
+
+
+googlesheets4::read_sheet('https://docs.google.com/spreadsheets/d/1sTf3ZIhfhKZSfHymTZXVAtV9sB2PHGTMnav-j04kkMA/edit?usp=sharing') %>%
+  kbl(full_width = FALSE, escape = FALSE) %>%
+  kable_styling(bootstrap_options = c("striped", "hover"), full_width = F,font_size = 13)%>%
+  column_spec(1, width = "6em")%>%
+  column_spec(2, width = "10em")%>%
+  column_spec(3, width = "12em")%>%
+  column_spec(4, width = "12em")%>%
+  column_spec(5, width = "12em")%>%
+  column_spec(6, width = "10em")
+
+```

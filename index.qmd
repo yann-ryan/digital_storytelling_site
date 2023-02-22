@@ -1,0 +1,76 @@
+---
+title: "Welcome to the course site for 'Digital Storytelling for the Humanities'!"
+---
+
+## Course Details
+
+-   Instructor: Yann Ryan, [y.c.ryan\@hum.leidenuniv.nl](https://dahi.lucdh.nl/overview/y.c.ryan@hum.leidenuniv.nl)
+
+-   Language: English
+
+-   EC: 5 (level 300)
+
+-   Semester 2, block III and IV
+
+## Brightspace
+
+[Log in to the Brightspace area](https://brightspace.universiteitleiden.nl/d2l/home/208956)
+
+## About me
+
+-   My first name is Yann (Ryan is my family name)
+
+-   He/him pronouns
+
+-   Email: **y.c.ryan\@hum.leidenuniv.nl**
+
+-   Feel free to email me or contact me on MS Teams if you would like to discuss anything about the course
+
+-   **In particular please reach out if you have accessibility needs (for example sight impaired or color-blindness).**
+
+## Course Load
+
+-   Total course load 5 EC x 28 hours = 140 hours
+
+    -   Seminar: 13 x 2: 26 hours
+
+    -   Self-study, tutorials, reading: 40 hours
+
+    -   Multiple-choice quiz: 2 hours
+
+    -   Critique: 24 hours
+
+    -   Visual portfolio 50 hours
+
+## Grading
+
+-   Test (30 percent of grade)
+
+-   Portfolio (50 percent of grade)
+
+-   Critique (20 percent of grade)\
+    The final mark for the course is established by determining the weighted average. The grades for the test, portfolio and critique have to be at least a 5.5.
+
+-   You are expected to attend every week - attendance counts towards your final grade.
+
+## Participation
+
+-   Attendance is obligatory - please let me know in advance via email if you can't make it. Tracked with pen and paper sign-up sheet.
+
+-   Most weeks:
+
+    -   Read before class
+
+    -   In-class discussion, peer feedback, self-guided work on tools
+
+    -   Short assignment (create a data visualisation and short written description) due before the following week, submitted on Brightspace
+
+-   **Laptop needed most weeks for in-class tutorials!**
+
+-   **Mostly web-based apps but some (optional) need to be installed on a local machine (Gephi, Tableau desktop)**
+
+-   **No previous requirements but some familiarity with working with data (e.g. spreadsheets), either existing or acquired during the course!**
+
+## Plagiarism
+
+Plagiarism is a 'mortal' academic sin. If you have not done so already, please inform yourself on Leiden University's views and regulations on [plagiarism](http://media.leidenuniv.nl/legacy/plagiarism.pdf). This Leiden university library [portal](https://www.library.universiteitleiden.nl/training/web-courses/citing) has several accessible web courses on how to quote and cite right and tips for bibliographic management. Note that plagiarism, copyright and other information sharing or copying issues are often extra complex when dealing with digital sources. If you are still in doubt whether (parts of) any work for this course may constitute plagiarism, you need to signal and verify this with me before you hand it in for grading.

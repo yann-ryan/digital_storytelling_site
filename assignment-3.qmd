@@ -1,0 +1,56 @@
+---
+title: "Assignment 3: Visual Portfolio"
+editor: visual
+---
+
+## Digital Visual Portfolio
+
+### Purpose
+
+The purpose of this assignment is to create a digital visual portfolio that showcases your digital storytelling skills and creativity in the field of humanities. These can utilise the visualisations or interactives you made in the short assignments, but you do not need to use them. You can also choose to create alternative digital forms of storytelling **as long as they are substantially original work and are primarily visual**, for example web comics, memes, 3D visualisations/models, VR/AR stories.
+
+### Content
+
+Your portfolio should include at least **three digital stories** created during the course. These projects should demonstrate your understanding of various digital storytelling techniques and the use of different digital tools. Pick a subject (or subjects) you are familiar with and think could benefit from being presented in this format. **It is up to you whether or not your three objects are linked together.**
+
+You can start from scratch if you wish. Suitable sources of data include. Bear in mind that most will require some work to get in the correct format before using!
+
+### Format and Platform
+
+Your portfolio should be either a series of static data visualisations, or a set of shareable interactive objects such as timelines, interactive plots, interactive stories, or a mix of all of the above. See below for specifics on how to submit. You can make use of online modes of presentation if you wish (such as a Wordpress blog or using the Exhibit.so app, but at a minimum you should submit a compressed folder containing your objects (or links) and the portfolio report, directly through Brightspace.
+
+### Portfolio Report
+
+In addition to visual presentations of each project, you should include a detailed report on your portfolio, totalling 1500-2000 words. The following are suggested headings, but it doesn't need to take exactly this form.
+
+-   **Context:** What is the subject background for your portfolio objects? Why were you interested in this particular subject, and how did you collect the data?
+
+-   **Description:** take the user through your digital stories - teaching them how to 'read' it where necessary. What does each one show, and what does this tell us about your subject? Why have you chosen to present this particular topic/theme/subject to the user in this way, and how does it benefit from it? Does it make a complex topic easier to grasp, or does it aim to have an emotional impact?
+
+-   **Challenges:** What was difficult about the process at the outset? Did you have to deal with data issues or uncertainty? What would you do differently if you were to start again?
+
+-   **Creative process and decision making:** explain the process and thinking behind your design choices. If you have made visualisations, how did you use colour, shape, geometry to aid the user? How do you expect a user to 'read' your visualisations. If you have chosen other formats, write about your creative process and how you used different design elements to get across your chosen narratives.
+
+-   **Reflection:** How well to you think you achieved your aims? What have you learned about design and how do you think you could apply it to your own work in the future? How have you had to change your approach to narratives to suit the particular medium you've chosen?
+
+If your visualisations are linked, you can write one longer report, or three shorter ones if they are separate.
+
+### Submission
+
+If you choose static visualisations, create a folder with high-quality images or .pdfs (or .svg) plus a pdf containing your project report. Give the images sensible names, and include a caption (a short description) for each one in the .pdf, linked to the image name. Zip this file and upload it all to Brightspace.
+
+If your digital stories need to be viewed online through a browser, upload a single .pdf to brightspace. Include your project report, and underneath provide web links to your portfolio objects, with a description (like a caption) underneath each.
+
+If for some reason neither of these methods work for your particular format, **please get in touch with me well in advance to discuss how they should be submitted.**
+
+### Grading
+
+You will be given an overall grade (out of 5) based on the following criteria:
+
+-   Suitability of data and story
+
+-   Technical ability
+
+-   Aesthetics
+
+-   Report/reflection

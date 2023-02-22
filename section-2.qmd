@@ -1,0 +1,52 @@
+---
+title: "Interactivity and the Humanities"
+editor: visual
+---
+
+## Description
+
+One key benefit of the digital turn in the humanities is the ability to use interactivity, inviting our users to take part in and shape the story we are trying to tell.
+
+## Week 8 (3 April)
+
+#### Read:
+
+-   Something on timelines
+
+#### During class
+
+-   JS StoryLab demo and hands-on
+
+-   We'll pick a few critiques to present in class
+
+## Week 9 (17 April)
+
+Read before class:
+
+-   Something on interactivity
+
+-   Nodegoat tutorial?
+
+-   Maybe something about data or data modelling
+
+#### During class
+
+-   Nodegoat hands-on
+
+#### For next week:
+
+-   Take the multiple choice exam
+
+## Resources
+
+https://observablehq.com/
+
+https://www.canva.com/en_gb/
+
+https://www.tableau.com/academic/students
+
+http://www.viseyes.org/visualeyes/
+
+https://catalogue.leidenuniv.nl/permalink/f/1e3kn0k/TN_cdi_proquest_ebookcentral_EBC6374829
+
+\

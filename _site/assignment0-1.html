@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.1.189">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Digital Storytelling for the Humanities - Mini-Assignment 1: Create a Data Visualisation</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Digital Storytelling for the Humanities</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">Home</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./overview.html">Overview</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./schedule.html">Schedule</a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-sections" role="button" data-bs-toggle="dropdown" aria-expanded="false">Sections</a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-sections">    
+        <li>
+    <a class="dropdown-item" href="./section-1.html">
+ <span class="dropdown-text">Stories through Data Visualisation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./section-2.html">
+ <span class="dropdown-text">Interactivity and the Humanities</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./section-3.html">
+ <span class="dropdown-text">Sharing Stories</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-assignments" role="button" data-bs-toggle="dropdown" aria-expanded="false">Assignments</a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-assignments">    
+        <li>
+    <a class="dropdown-item" href="./assignment0-1.html">
+ <span class="dropdown-text">Mini-assignment 1</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./assignment0-2.html">
+ <span class="dropdown-text">Mini-assignment 2</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./assignment-1.html">
+ <span class="dropdown-text">Assignment 1: Critique of a Digital Story</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./assignment-2.html">
+ <span class="dropdown-text">Multiple Choice Quiz</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./assignment-3.html">
+ <span class="dropdown-text">Assignment 2: Visual Portfolio</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#making-a-chart-with-rawgraphs.io" id="toc-making-a-chart-with-rawgraphs.io" class="nav-link active" data-scroll-target="#making-a-chart-with-rawgraphs.io">Making a chart with rawgraphs.io</a></li>
+  <li><a href="#open-the-application" id="toc-open-the-application" class="nav-link" data-scroll-target="#open-the-application">Open the application</a></li>
+  <li><a href="#load-some-data" id="toc-load-some-data" class="nav-link" data-scroll-target="#load-some-data">Load some data:</a>
+  <ul class="collapse">
+  <li><a href="#loading-a-dataset-from-github" id="toc-loading-a-dataset-from-github" class="nav-link" data-scroll-target="#loading-a-dataset-from-github">1. Loading a dataset from Github</a></li>
+  <li><a href="#load-data-from-wikipedia-tables-using-google-sheets." id="toc-load-data-from-wikipedia-tables-using-google-sheets." class="nav-link" data-scroll-target="#load-data-from-wikipedia-tables-using-google-sheets.">2. Load data from Wikipedia tables using Google Sheets.</a></li>
+  </ul></li>
+  <li><a href="#draw-your-chart" id="toc-draw-your-chart" class="nav-link" data-scroll-target="#draw-your-chart">Draw your chart</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"><img src="images/paste-6FEA92A7.png" class="img-fluid"></a></li>
+  <li><a href="#describe-your-chart" id="toc-describe-your-chart" class="nav-link" data-scroll-target="#describe-your-chart">Describe your chart</a></li>
+  <li><a href="#upload-to-brightspace" id="toc-upload-to-brightspace" class="nav-link" data-scroll-target="#upload-to-brightspace">Upload to Brightspace</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Mini-Assignment 1: Create a Data Visualisation</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="making-a-chart-with-rawgraphs.io" class="level2">
+<h2 class="anchored" data-anchor-id="making-a-chart-with-rawgraphs.io">Making a chart with rawgraphs.io</h2>
+<p>For this assignment, you will create a data visualisation using a dataset of your choice, and the web application Rawgraphs.io. You should pay attention to the design principles and approaches to graphical displays we have discussed this week in class and in the reading.</p>
+<p>Detailed tutorials are available on the rawgraphs website: https://www.rawgraphs.io/learning, but these steps should get you started:</p>
+</section>
+<section id="open-the-application" class="level2">
+<h2 class="anchored" data-anchor-id="open-the-application">Open the application</h2>
+<p>Rawgraphs.io runs on any modern web browser, so getting started is simple. Open https://www.rawgraphs.io/ on your computer (a computer is much better than a tablet, if possible).</p>
+<p>Click the big ‘use it now’ button.</p>
+</section>
+<section id="load-some-data" class="level2">
+<h2 class="anchored" data-anchor-id="load-some-data">Load some data:</h2>
+<p>The starting-point for any data visualisation is some data. Learning to work with data is an essential part of digital design, so it’s worth familiarising yourself with how this works. If you get stuck, there are some data samples (click on ‘Try our data samples’), but you’ll miss a pretty important step.</p>
+<p>Rawgraphs works with data in tabular format - that is, data where the columns separated by commas or tabs, and each row is a new line. This is a very common format used in spreadsheet software and online.</p>
+<p>You can use any dataset you like. If you have one, the easiest option is to open it in a spreadsheet application (Excel, or Google sheets), and copy and paste the entire thing to the data input box in Rawgraphs.</p>
+<p>If you don’t have a dataset, here are instructions for two methods to find and copy data to rawgraphs. First, <strong>pasting a dataset directly from Github</strong> and second, <strong>using Google sheets to load a table from Wikipedia.</strong></p>
+<section id="loading-a-dataset-from-github" class="level3">
+<h3 class="anchored" data-anchor-id="loading-a-dataset-from-github">1. Loading a dataset from Github</h3>
+<p>The website <a href="https://github.com/">Github</a> contains many datasets from various projects, which have been made available for use by others. We’ll select a dataset originally made for the data journalism website <a href="https://pudding.cool/">Pudding.cool</a>.</p>
+<p>First, go to the public data ‘repository’ for the site: https://github.com/the-pudding/data/. Here, you’ll see a bunch of individual folders. Each one contains a dataset (or multiple datasets), corresponding to articles from the site:</p>
+<p><img src="images/paste-22EE5936.png" class="img-fluid" width="800"></p>
+<section id="open-the-relevant-folder" class="level4">
+<h4 class="anchored" data-anchor-id="open-the-relevant-folder">Open the relevant folder</h4>
+<p>As an example, we’ll use a dataset of models and skintones which was originally part of the 2019 story <a href="https://pudding.cool/2019/04/vogue/">‘Colorism in High Fashion’</a>.</p>
+<p>Open the ‘Vogue’ folder. The first thing you should do is <strong>read the description underneath to understand what the dataset is about.</strong></p>
+<p>The data description tells us there are two datasets here: <code>faces.csv</code> and <code>models.csv</code>. The <code>faces.csv</code> dataset lists every model from the front cover of Vogue over a certain time period, along with a ‘lightness’ value of between 0 and 1. We’ll import this dataset to Rawgraphs and graph these lightness values over time.</p>
+</section>
+<section id="get-the-link-for-the-.csv-file." class="level4">
+<h4 class="anchored" data-anchor-id="get-the-link-for-the-.csv-file.">Get the link for the .csv file.</h4>
+<p>To import to Rawgraphs, we need a url (web address) pointing directly to the dataset. To get this, first click on the <code>faces.csv</code> file, which will open in a tabular format. Next, click the ‘raw’ button at the top-right of the dataset:</p>
+<p><img src="images/paste-8BFFF871.png" class="img-fluid"></p>
+</section>
+<section id="copy-the-url" class="level4">
+<h4 class="anchored" data-anchor-id="copy-the-url">Copy the url</h4>
+<p>This will open the file itself in your browser. Copy and paste the url (in this case, it’s <code>https://raw.githubusercontent.com/the-pudding/data/master/vogue/faces.csv</code>).</p>
+</section>
+<section id="import-to-rawgraphs" class="level4">
+<h4 class="anchored" data-anchor-id="import-to-rawgraphs">Import to Rawgraphs</h4>
+<p>Open rawgraphs in another tab, if you haven’t already. In the load your data screen, click on ‘from URL’:</p>
+<p><img src="images/paste-0E7DBEE7.png" class="img-fluid"></p>
+<p>Paste the web address into the box which appears here, and click ‘load data’. The data will appear, in tabular form.</p>
+</section>
+<section id="ensure-the-data-are-of-the-correct-type." class="level4">
+<h4 class="anchored" data-anchor-id="ensure-the-data-are-of-the-correct-type.">Ensure the data are of the correct ‘type’.</h4>
+<p>As we’ll learn over the next few weeks, computers have to be told what ‘type’ of data they have been given. In many software, they will make guesses, but these are not always correct. For example, in order for Rawgraphs to correctly render this data along a timeline, we need to specify that the ‘date’ column is in fact, a date. You’ll notice that the first column contains a date, in the format DD/MM/YYYY. However, rawgraphs is currently interpreting this as regular text characters (also known as a ‘string’).</p>
+<p>To fix this, click on the ‘Aa’ icon to the left of the word date in the first column. Next, click on the ‘date’ item in the dropdown menu which appears. Finally, click on the correct date format (DD/MM/YYYY).</p>
+<p>At this point, you can move onto the next step, and create your visualisation. Or, keep reading for another method to get data.</p>
+</section>
+</section>
+<section id="load-data-from-wikipedia-tables-using-google-sheets." class="level3">
+<h3 class="anchored" data-anchor-id="load-data-from-wikipedia-tables-using-google-sheets.">2. Load data from Wikipedia tables using Google Sheets.</h3>
+<p>This method involves a tiny bit of ‘coding’, but it is a neat trick and maybe be useful when you come to thinking about getting hold of data of interest to you.</p>
+<p>As you’ll probably know, Wikipedia contains many thousands of datasets within its pages - in the form of online tables. The <a href="https://en.wikipedia.org/wiki/List_of_highest-grossing_films">highest-grossing movies of all time</a>, for example, or the <a href="https://en.wikipedia.org/wiki/List_of_river_systems_by_length">longest rivers in the world</a>.</p>
+<p>These make great datasets for many types of visualisations, but there are a few steps needed to import this to Rawgraphs. You’ll need to open a Google sheets spreadsheet, enter a special formula in the first cell, and then copy and paste the data directly to Rawgraphs.</p>
+<section id="open-google-sheets" class="level4">
+<h4 class="anchored" data-anchor-id="open-google-sheets">Open Google sheets</h4>
+<p>Google sheets is a free online spreadsheet program. If you don’t have a google account, you’ll need to set one up beforehand. Go to the application, for example through https://www.google.com/sheets/about or just through your own google profile, and create a blank sheet.</p>
+<p>Next, copy and paste the following code into the first cell (A1) of your spreadsheet:</p>
+<p><u><code>=IMPORTHTML(</code></u><code>"https://en.wikipedia.org/wiki/List_of_highest-grossing_films","table", 1)</code></p>
+<p>This has a few elements - you should understand what each of them does:</p>
+<p><code>IMPORTHTML(</code>: this is the special Google sheets formula which allows you to import a table from a web page. Everything else goes within parentheses after the formula name.</p>
+<p>Next are three elements, each separated by a comma (note that the first two are within quotation marks, the third is not):</p>
+<ul>
+<li><p><code>"https://en.wikipedia.org/wiki/List_of_highest-grossing_films"</code> is the url to the wikipedia page where the table is contained (you can swap this for any other one you’re interested in)</p></li>
+<li><p><code>"table"</code> tells the formula to find a table</p></li>
+<li><p><code>1</code> tells the formula to take the first table on the page. You may have to use a different number if there are multiple tables, and you want a different one.</p></li>
+</ul>
+<p>Once you’ve copied in this to the first cell, press return. After a few seconds, the formatted table should appear.</p>
+</section>
+<section id="fix-the-numbers-formatting" class="level4">
+<h4 class="anchored" data-anchor-id="fix-the-numbers-formatting">Fix the numbers formatting</h4>
+<p>The data we want to visualise is the ‘worldwide gross’ column. The number in this column is in a format not suitable for reading by a computer. First of all, most values have a dollar sign before the value, second, the values are separated by commas, and third, some have errors. Rawgraphs will expect numbers in the same currency and without the dollar sign.</p>
+<p>Before we fix these, we need to make a small change to the data. At the moment, the data is reliant on being pulled live from the web page. We want to replace it with a regular copy.</p>
+<p>Click and drag to select all the data. Click edit-&gt;cut, and then edit-&gt;paste special-&gt;values only.</p>
+<p>Next, fix the errors which happened during the import. In lines 20, 22, and 50, delete the characters and numbers <strong>to the right of the dollar sign.</strong></p>
+<p>To get rid of the dollar signs, use Google Sheets ‘find and replace’ tool. First, select the entire ‘worldwide gross column. Next, click on Edit-&gt;find and replace. Type a dollar sign in the first box, leave the second box empty, and then click ’replace all’.</p>
+<p>Last, tell Google sheets that this is a number. Select the ‘worldwide gross’ column, and click format-&gt;number-&gt;automatic.</p>
+</section>
+<section id="copy-and-paste-the-data-to-rawgraphs" class="level4">
+<h4 class="anchored" data-anchor-id="copy-and-paste-the-data-to-rawgraphs">Copy and paste the data to Rawgraphs</h4>
+<p>Highlight the data, use edit-&gt; copy. Make sure you have the ‘Paste your data’ option selected in rawgraphs, and simply paste it in using right click.</p>
+</section>
+</section>
+</section>
+<section id="draw-your-chart" class="level2">
+<h2 class="anchored" data-anchor-id="draw-your-chart">Draw your chart</h2>
+<p>Once your data is loaded using one of these methods, scroll down on the Rawgraphs site to see the chart options available to you. For this week, it’s best to stick with something simple, for instance a bar chart, bubble plot, or line graph. See the Financial Times’ <a href="https://ft-interactive.github.io/visual-vocabulary/">Visual Vocabulary</a> for more information which chart is suitable for your particular data. We’ll use another wikipedia table, taken from https://en.wikipedia.org/wiki/List_of_sovereign_states_by_wealth_inequality, to visualise the wealth and <a href="https://en.wikipedia.org/wiki/Gini_coefficient">Gini coefficient</a> of nation states.</p>
+<p>Some other interesting examples I’ve come across are this dataset of Hollywood age gaps:</p>
+<p><code>https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-02-14/age_gaps.csv</code></p>
+<p>And this of the ‘Bechdel test’: <code>https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-03-09/movies.csv</code></p>
+<p>Once you have selected the ‘bubble chart’ option, scroll down to the ‘mapping’ section. Here, you can drag columns from your data to be mapped to particular geometries. Drag ‘GDP per capita’ to the ‘X-axis’ and ‘Nominal GDP’ to the y-axis.</p>
+<p>From here, experiment with the options available. You can set more columns to visual elements, for example drag ‘population’ to the ‘size’ option. Add labels for the countries by dragging ‘Country’ to ‘label’. Play around with the colours, labels, and margins, until you’re happy with your plot.</p>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"><img src="images/paste-6FEA92A7.png" class="img-fluid"></h2>
+<p>If you have time, consider choosing a colour palette using an online resource such as the <a href="https://www.learnui.design/tools/data-color-picker.html">Data Color Picker</a>.</p>
+</section>
+<section id="describe-your-chart" class="level2">
+<h2 class="anchored" data-anchor-id="describe-your-chart">Describe your chart</h2>
+<p>You should spend some time thinking about what your chart is trying to say, and use visual elements as far as possible to say it. Try not to simply produce a complex chart with many different elements, but think about how it might be read and how it helps us to process the data and the narrative around it.</p>
+<p>When you’re happy with your visualisation, export it as a .png using the last section on the site. After this, you’ll need to write a detailed <strong>caption</strong> for your chart. This should explain to the viewer what they are looking at, and how they should read it. It should also explain the steps you took to get hold of the data, how/if you pre-processed it, and any warnings about the data or the visualisation the reader should know about. This should be about 300 words at most.</p>
+<p>As an example of how you might describe the chart above:</p>
+<blockquote class="blockquote">
+<p>This chart plots the division of wealth inequality across most nation states on earth. The data has been scraped from the Wikipedia page: https://en.wikipedia.org/wiki/List_of_sovereign_states_by_wealth_inequality, using Google sheets. The data was preprocessed to remove missing values and to fix small errors. The wikipedia page states that the data is correct for 2018, and the Gini index for 2019. A small caveat is that Ireland does not generally use GDP as a measure of wealth, because of its use by many multi-national companies.</p>
+<p>The chart plots the overall wealth of the country on the y-axis (GDP), against the GDP per capita on the x-axis. I chose to use a bubble plot because I wanted to emphasise the relationship (correlation) between the two variables. If we imagine a diagonal line running from the bottom-left to the top-right of the chart, countries above/to the left of that line have large economies but are poorer, and countries below/to the right have smaller economies but are richer per person. In addition, the Gini index (a measure of the distribution of wealth in a country) is visualised using a diverging colour scale: less equal countries are towards the red end of the colour spectrum; more equal countries are blue, and those in the middle are grey.</p>
+<p>This chart has some issues with readability. Because most countries have a small GDP and GDP per capita, it is difficult to read the values in the bottom-left of the chart. If I want to develop this for my visual portfolio, I will think about different ways of making it more readable, perhaps by having separate charts for the smaller countries, and putting them together afterwards.</p>
+</blockquote>
+</section>
+<section id="upload-to-brightspace" class="level2">
+<h2 class="anchored" data-anchor-id="upload-to-brightspace">Upload to Brightspace</h2>
+<p>Create a document in MS word. Import your chart, and write your description below it. Export this as a .pdf, and upload to the correct area on Brightspace.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

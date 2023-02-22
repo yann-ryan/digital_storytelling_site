@@ -1,0 +1,67 @@
+---
+title: "Overview"
+editor: visual
+---
+
+### What is digital storytelling?
+
+In the Humanities we study cultures, languages, and societies past and present in all their complexity, thereby creating knowledge that can enrich the other sciences and help provide human perspectives to issues faced by our societies. If we want others to listen to our rich but complex stories, it is important for us to clearly and compellingly communicate these. 
+
+Understanding the theory and knowing how to use the tools of digital forms of storytelling can be of great help in this as well as any other professional endeavor you may undertake. This course will give you the necessary basics to get you on your way with digital storytelling.
+
+There are as many ways to get information across digitally as there are potential pitfalls along the way, so a first important step is to learn to 'read' and critique digital formats and understand the concepts, choices, and ingredients that underly them as well as the cultural frameworks and perspectives that give rise to them. In this course we will therefore take a look at the design fundamentals of a wide range of digital storytelling tools , with a focus on visual formats. 
+
+The core textbook for this course is Design for Information, which, together with additional readings, provides a clear introduction into classic digital, visual designs, including hierarchical, network, timeline, and map-based visualizations. However, we will also look at more avant-garde forms of visual storytelling, including memes, data comics, and 3D visualizations.\*
+
+An ounce of practice is worth a ton of theory, so you will also go hands on with tools for creating visualizations that effectively convey complex knowledge. This will be done through self-learning tutorials with optional guidance in open labs. You will receive feedback on your visualizations from your peers and, in turn, you will learn how to analyze and constructively critique their visual stories through practice.
+
+Class format: You will receive lectures and demos on a wide range of tools or techniques, from infographics and mapmaking with GIS to games and other interactive digital formats. To practice, you will independently work through tutorials to learn tools or techniques and practice with it through assignments. These assignments will be discussed in class and peer-graded.
+
+### Course Objectives
+
+At the end of this course, you will:
+
+-   Know basic theories and practice of digital design;
+
+-   Understand the depth of the field of digital and visual design, its connection to the Humanities and other, digital and visualization-driven fields;
+
+-   Understand how and what different types of digital tools are best suited for different types of data, aims, and contexts;
+
+-   Understand how digital formats as rhetorical devices are reflective of specific cultural perspectives and histories;
+
+-   Have gained working knowledge of a range of tools to create visualization-and other story-driven digital outputs ;
+
+-   Be able to constructively critique visualizations and be able to effectively receive feedback on your own visualizations.
+
+### Timetable
+
+The timetables are avalable through [My Timetable](https://rooster.universiteitleiden.nl/schedule).
+
+### **Assessment**
+
+-   Multiple choice test on course literature and lectures
+
+-   A peer-graded visual portfolio
+
+-   A critique of a digital story of your choice
+
+### **Weighing**
+
+-   Test (30 percent of grade)
+
+-   Portfolio (50 percent of grade)
+
+-   Critique (20 percent of grade)\
+    The final mark for the course is established by determining the weighted average. The grades for the test, portfolio and critique have to be at least a 5.5.
+
+### **Resit**
+
+Students who have scored an overall insufficient grade for the course may take a resit the test, portfolio and/or critique.
+
+### **Inspection and feedback**
+
+How and when an exam review will take place will be disclosed together with the publication of the exam results at the latest. If a student requests a review within 30 days after publication of the exam results, an exam review will have to be organized.
+
+### Contact
+
+y.c.ryan\@hums.leidenuniv.nl

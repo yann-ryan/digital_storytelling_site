@@ -1,0 +1,317 @@
+[
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Course Objectives\nAt the end of this course, you will:\n\nKnow basic theories and practice of digital design;\nUnderstand the depth of the field of digital and visual design, its connection to the Humanities and other, digital and visualization-driven fields;\nUnderstand how and what different types of digital tools are best suited for different types of data, aims, and contexts;\nUnderstand how digital formats as rhetorical devices are reflective of specific cultural perspectives and histories;\nHave gained working knowledge of a range of tools to create visualization-and other story-driven digital outputs ;\nBe able to constructively critique visualizations and be able to effectively receive feedback on your own visualizations.\n\n\n\nTimetable\nThe timetables are avalable through My Timetable.\n\n\nAssessment\n\nMultiple choice test on course literature and lectures\nA peer-graded visual portfolio\nA critique of a digital story of your choice\n\n\n\nWeighing\n\nTest (30 percent of grade)\nPortfolio (50 percent of grade)\nCritique (20 percent of grade)\nThe final mark for the course is established by determining the weighted average. The grades for the test, portfolio and critique have to be at least a 5.5.\n\n\n\nResit\nStudents who have scored an overall insufficient grade for the course may take a resit the test, portfolio and/or critique.\n\n\nInspection and feedback\nHow and when an exam review will take place will be disclosed together with the publication of the exam results at the latest. If a student requests a review within 30 days after publication of the exam results, an exam review will have to be organized.\n\n\nContact\ny.c.ryan@hums.leidenuniv.nl"
+  },
+  {
+    "objectID": "section-3.html",
+    "href": "section-3.html",
+    "title": "Sharing our Stories",
+    "section": "",
+    "text": "The digital opens up new ways to share our stories, from blogs, to podcasts, through to tiktok videos. Digital exhibits, for example, allow us to draw together material from anywhere, and shape our own narrative around it. In this section, we’ll explore some ways by which this can be done. We’ll make and critique a digital exhibit, and be introduced to ‘literate programming’: a way of sharing the narrative around our research in a new way (no coding experience required)."
+  },
+  {
+    "objectID": "section-3.html#week-10-24-april",
+    "href": "section-3.html#week-10-24-april",
+    "title": "Sharing our Stories",
+    "section": "Week 10 (24 April)",
+    "text": "Week 10 (24 April)\n\nRead before class:\n\nReading on communication with wider audience etc.\n\n\n\nDuring class:\n\nExhibit.so hands-on (including uploading to archive.org?)\nDemo of nodegoat interactives"
+  },
+  {
+    "objectID": "section-3.html#week-11-1-may",
+    "href": "section-3.html#week-11-1-may",
+    "title": "Sharing our Stories",
+    "section": "Week 11 (1 May)",
+    "text": "Week 11 (1 May)\n\nRead before class:\n\nDesign for information chapter\n\n\n\nDuring class:\n\nShare and discuss exhibits (thinking about information ‘curation’\n\n\n\nFor next week:\n\nPrepare on your visual portfolio"
+  },
+  {
+    "objectID": "section-3.html#week-12-8-may",
+    "href": "section-3.html#week-12-8-may",
+    "title": "Sharing our Stories",
+    "section": "Week 12 (8 May)",
+    "text": "Week 12 (8 May)\n\nRead before class:\n\nSomething on Jupyter notebooks/literate programming (labs?)\n\n\n\nDuring class:\n\nGoogle colab demo"
+  },
+  {
+    "objectID": "section-3.html#week-13-15-may",
+    "href": "section-3.html#week-13-15-may",
+    "title": "Sharing our Stories",
+    "section": "Week 13 (15 May)",
+    "text": "Week 13 (15 May)\n\nDuring class:\n\nDiscussion, summing up, feedback. Q&A for visual portfolio"
+  },
+  {
+    "objectID": "section-3.html#resources",
+    "href": "section-3.html#resources",
+    "title": "Sharing our Stories",
+    "section": "Resources",
+    "text": "Resources"
+  },
+  {
+    "objectID": "section-2.html",
+    "href": "section-2.html",
+    "title": "Interactivity and the Humanities",
+    "section": "",
+    "text": "One key benefit of the digital turn in the humanities is the ability to use interactivity, inviting our users to take part in and shape the story we are trying to tell."
+  },
+  {
+    "objectID": "section-2.html#week-8-3-april",
+    "href": "section-2.html#week-8-3-april",
+    "title": "Interactivity and the Humanities",
+    "section": "Week 8 (3 April)",
+    "text": "Week 8 (3 April)\n\nRead:\n\nSomething on timelines\n\n\n\nDuring class\n\nJS StoryLab demo and hands-on\nWe’ll pick a few critiques to present in class"
+  },
+  {
+    "objectID": "section-2.html#week-9-17-april",
+    "href": "section-2.html#week-9-17-april",
+    "title": "Interactivity and the Humanities",
+    "section": "Week 9 (17 April)",
+    "text": "Week 9 (17 April)\nRead before class:\n\nSomething on interactivity\nNodegoat tutorial?\nMaybe something about data or data modelling\n\n\nDuring class\n\nNodegoat hands-on\n\n\n\nFor next week:\n\nTake the multiple choice exam"
+  },
+  {
+    "objectID": "section-2.html#resources",
+    "href": "section-2.html#resources",
+    "title": "Interactivity and the Humanities",
+    "section": "Resources",
+    "text": "Resources\nhttps://observablehq.com/\nhttps://www.canva.com/en_gb/\nhttps://www.tableau.com/academic/students\nhttp://www.viseyes.org/visualeyes/\nhttps://catalogue.leidenuniv.nl/permalink/f/1e3kn0k/TN_cdi_proquest_ebookcentral_EBC6374829"
+  },
+  {
+    "objectID": "section-1.html",
+    "href": "section-1.html",
+    "title": "Stories through Data Visualisation",
+    "section": "",
+    "text": "In this section you’ll learn the basics of data visualization, starting with how to create and interpret simple charts, before moving to more advanced mapping and networks. We will explore how color, size, shape and so forth are interpreted in the context of the humanities. We will look at some exemplary DH visualisation projects, and learn how to critique them.\nWe will also consider the ethics of data visualization, looking at some cases where data visualisation obscures or misleads.\nWe will cover:\n\nHistory of data visualisation\nBasic principles of information visualisation, i.e. colour theory, how to avoid misleading charts, how to convey meaning through geometry, colour, shape, position, and so forth.\nA variety of static data visualisation techniques, such as:\n\nHow to use and read bar/line/scatter plots\nDigital mapping\nNetwork visualisations\n\nIssues of ethics and representation in data visualisation"
+  },
+  {
+    "objectID": "section-1.html#resources-used",
+    "href": "section-1.html#resources-used",
+    "title": "Stories through Data Visualisation",
+    "section": "Resources used",
+    "text": "Resources used\nHere are some of the (mostly web-based) applications we’ll use in-class in this section:\n\nPalladio\nGephi\nNetwork Navigator\nRawgraphs.io\n\nWeek 1 (6 February)\n\nWeek 1 slides"
+  },
+  {
+    "objectID": "section-1.html#week-2-13-february",
+    "href": "section-1.html#week-2-13-february",
+    "title": "Stories through Data Visualisation",
+    "section": "Week 2 (13 February):",
+    "text": "Week 2 (13 February):\n\nRead before class:\n\nIsabel Mereilles, Design for Information, ‘Introduction’ (ebook available through Library catalogue)\nhttps://www.revunit.com/post/the-role-of-color-theory-in-data-visualization\nJohanna Drucker, ‘Humanities Approaches to Graphical Display’, Digital Humanities Quarterly 005, no. 1 (10 March 2011).\n\n\n\nDuring class:\n\nIntro to basic design principles, colour theory, ‘data ink’\nIntroduction to standard data visualisations: bar plots, scatter plots, line graphs\n\n\n\nFor next week:\n\nExplore rawgraphs.io. Create a data visualisation, preferably using some dataset you are interested in. Write 1 paragraph (200 words) describing what we are looking at. Upload to Brightspace before Sunday"
+  },
+  {
+    "objectID": "section-1.html#week-3-20-february",
+    "href": "section-1.html#week-3-20-february",
+    "title": "Stories through Data Visualisation",
+    "section": "Week 3 (20 February)",
+    "text": "Week 3 (20 February)\n\nRead:\n\nEdward Tufte, The Visual Display of Quantitative Information (Cheshire: 2001): Chapters 1 & 4.\nIsabel Mereilles, Design for Information, ‘Chapter 4 (Spatial Structures: Maps)’ (ebook available through Library catalogue)\n\n\n\nDuring class:\n\nHistory of data visualisation\nPeer feedback on rawgraphs.io\nHands-on work with StoryMap or Palladio\n\n\n\nFor next week:\n\nCreate a map using Storymap or Palladio. Upload the url link to Brightspace by 26 February."
+  },
+  {
+    "objectID": "section-1.html#week-4-27-february",
+    "href": "section-1.html#week-4-27-february",
+    "title": "Stories through Data Visualisation",
+    "section": "Week 4 (27 February):",
+    "text": "Week 4 (27 February):\n\nRead:\n\nIsabel Mereilles, Design for Information, ‘Chapter 2 (Relational Structures: Networks)’ (ebook available through Library catalogue)\n\n\n\nOther texts:\n\nChapter 4, ‘Visualising Networks’, in Ahnert, R., Ahnert, S., Coleman, C., & Weingart, S. (2021). The Network Turn: Changing Perspectives in the Humanities (Elements in Publishing and Book Culture). Cambridge: Cambridge University Press. doi:10.1017/9781108866804\nVenturini, T., Jacomy, M., & Jensen, P. (2021). What do we see when we look at networks: Visual network analysis, relational ambiguity, and force-directed layouts. Big Data & Society, 8(1). https://doi.org/10.1177/20539517211018488\n\n\n\nDuring class\n\nPeer feedback on StoryMap/Palladio map\nHands-on with Gephi (or Palladio graphs/Vistorian if not installed)\n\n\n\nFor next week\n\nContinue working with Gephi/Palladio"
+  },
+  {
+    "objectID": "section-1.html#week-5-6-march",
+    "href": "section-1.html#week-5-6-march",
+    "title": "Stories through Data Visualisation",
+    "section": "Week 5 (6 March)",
+    "text": "Week 5 (6 March)\n\nRead:\n\nIsabel Mereilles, Design for Information, ‘Chapter 3 (Temporal structures: timelines and flows)’ (ebook available through Library catalogue)\nhttps://medium.com/nightingale/strange-times-visualizing-the-oddities-of-time-data-bc1fee487153\n\n\n\nDuring class\n\nSome network theory\nHands-on session with temporal data visualisation app\n\nFor next week:\n\nCreate either a network visualisation with Palladio, Vistorian, Gephi, nodegoat etc, or a temporal visualization. Upload to Brightspace by Sunday 5 March."
+  },
+  {
+    "objectID": "section-1.html#week-6-13-march",
+    "href": "section-1.html#week-6-13-march",
+    "title": "Stories through Data Visualisation",
+    "section": "Week 6 (13 March)",
+    "text": "Week 6 (13 March)\n\nRead:\n\nOlivia Vane and Rosamund Pearce, ‘How to Visualise Sensitive Topics’\nAlex Selby-Boothroyd, ‘Mapping Refugee Flows’\nhttps://it.wisc.edu/learn/accessible-content-tech/accessible-data-visualizations/\n\n\n\nOther reading:\n\nKatherine Hepworth and Christopher Church, ‘Racism in the Machine: Visualization Ethics in Digital Humanities Projects’, Digital Humanities Quarterly 012, no. 4 (4 February 2019).\nStephen Boyd Davis, Olivia Vane & Florian Kräutli (2021) Can I believe what I see? Data visualization and trust in the humanities, Interdisciplinary Science Reviews, 46:4, 522-546, DOI: 10.1080/03080188.2021.1872874\n\n\n\nDuring class:\n\nPeer feedback on network/temporal visualisations\nDiscussion on first assignment\n\n\n\nBefore next week:\n\nFirst full assignment (critique of digital story) is due on March 19"
+  },
+  {
+    "objectID": "section-1.html#week-7-20-march",
+    "href": "section-1.html#week-7-20-march",
+    "title": "Stories through Data Visualisation",
+    "section": "Week 7 (20 March)",
+    "text": "Week 7 (20 March)\n\nRead:\n\nEdward Tufte, The Visual Display of Quantitative Information (Cheshire: 2001): Chapters 2 & 5.\n\n\n\nDuring class:\n\nDiscuss critique of digital story"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the course site for ‘Digital Storytelling for the Humanities’!",
+    "section": "",
+    "text": "Instructor: Yann Ryan, y.c.ryan@hum.leidenuniv.nl\nLanguage: English\nEC: 5 (level 300)\nSemester 2, block III and IV"
+  },
+  {
+    "objectID": "index.html#brightspace",
+    "href": "index.html#brightspace",
+    "title": "Welcome to the course site for ‘Digital Storytelling for the Humanities’!",
+    "section": "Brightspace",
+    "text": "Brightspace\nLog in to the Brightspace area"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to the course site for ‘Digital Storytelling for the Humanities’!",
+    "section": "About me",
+    "text": "About me\n\nMy first name is Yann (Ryan is my family name)\nHe/him pronouns\nEmail: y.c.ryan@hum.leidenuniv.nl\nFeel free to email me or contact me on MS Teams if you would like to discuss anything about the course\nIn particular please reach out if you have accessibility needs (for example sight impaired or color-blindness)."
+  },
+  {
+    "objectID": "index.html#course-load",
+    "href": "index.html#course-load",
+    "title": "Welcome to the course site for ‘Digital Storytelling for the Humanities’!",
+    "section": "Course Load",
+    "text": "Course Load\n\nTotal course load 5 EC x 28 hours = 140 hours\n\nSeminar: 13 x 2: 26 hours\nSelf-study, tutorials, reading: 40 hours\nMultiple-choice quiz: 2 hours\nCritique: 24 hours\nVisual portfolio 50 hours"
+  },
+  {
+    "objectID": "index.html#grading",
+    "href": "index.html#grading",
+    "title": "Welcome to the course site for ‘Digital Storytelling for the Humanities’!",
+    "section": "Grading",
+    "text": "Grading\n\nTest (30 percent of grade)\nPortfolio (50 percent of grade)\nCritique (20 percent of grade)\nThe final mark for the course is established by determining the weighted average. The grades for the test, portfolio and critique have to be at least a 5.5.\nYou are expected to attend every week - attendance counts towards your final grade."
+  },
+  {
+    "objectID": "index.html#participation",
+    "href": "index.html#participation",
+    "title": "Welcome to the course site for ‘Digital Storytelling for the Humanities’!",
+    "section": "Participation",
+    "text": "Participation\n\nAttendance is obligatory - please let me know in advance via email if you can’t make it. Tracked with pen and paper sign-up sheet.\nMost weeks:\n\nRead before class\nIn-class discussion, peer feedback, self-guided work on tools\nShort assignment (create a data visualisation and short written description) due before the following week, submitted on Brightspace\n\nLaptop needed most weeks for in-class tutorials!\nMostly web-based apps but some (optional) need to be installed on a local machine (Gephi, Tableau desktop)\nNo previous requirements but some familiarity with working with data (e.g. spreadsheets), either existing or acquired during the course!"
+  },
+  {
+    "objectID": "index.html#plagiarism",
+    "href": "index.html#plagiarism",
+    "title": "Welcome to the course site for ‘Digital Storytelling for the Humanities’!",
+    "section": "Plagiarism",
+    "text": "Plagiarism\nPlagiarism is a ‘mortal’ academic sin. If you have not done so already, please inform yourself on Leiden University’s views and regulations on plagiarism. This Leiden university library portal has several accessible web courses on how to quote and cite right and tips for bibliographic management. Note that plagiarism, copyright and other information sharing or copying issues are often extra complex when dealing with digital sources. If you are still in doubt whether (parts of) any work for this course may constitute plagiarism, you need to signal and verify this with me before you hand it in for grading."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "[1] 2"
+  },
+  {
+    "objectID": "assignment0-2.html",
+    "href": "assignment0-2.html",
+    "title": "Mini Assignment 2: Mapping",
+    "section": "",
+    "text": "Today you can choose from three options, representing different approaches to mapping:\nFor 3, you’ll need to open a coding notebook. Bear in mind that these can be a bit temperamental, so be prepared to be patient or for it not to work at all. If you don’t have coding experience, it might be nice to try out to get a feel for it, but making any changes or adding your own data may be slightly frustrating."
+  },
+  {
+    "objectID": "assignment0-2.html#map-using-palladio",
+    "href": "assignment0-2.html#map-using-palladio",
+    "title": "Mini Assignment 2: Mapping",
+    "section": "Map Using Palladio",
+    "text": "Map Using Palladio\nIn this method, we’ll use a tool called Palladio, which was specifically made to work with humanities data. There are a number of very good tutorials for using Palladio, particularly https://miriamposner.com/blog/getting-started-with-palladio/.\nFirst, go to http://hdlab.stanford.edu/palladio/ and click ‘start’. This is where you can load your own data in .csv format.\nYou can use any .csv data. To make a map, the application needs data with a single column with the latitude and longitude coordinates, separated by a comma.\nLoad some sample data I have prepared here: https://docs.google.com/spreadsheets/d/17_enwtCIHfqrTyUhV-WnAEqKiYevEkU6-NW0mlE0Er0/edit?usp=sharing\nThis contains 1,000 individuals tagged as ‘composer’ in Wikipedia. This data is relatively simple to get from a service called Wikidata - if you think you’d like to use some kind of geographic data like this in your portfolio, get in touch with me!\nClick ‘start’ on Palladio, and copy this data into the large text box on the next screen:\n\nClick ‘load’.\nClick on the map tab at the top of the screen:\nNext, create a ‘layer’, which will allow us to draw points of data on top of the map. Click ‘new layer’ and give it a name:\nNext, tell Palladio which data to use to draw points on the map. Click on the ‘Places’ box which will give a drop-down of all the fields in the data with geographic coordinates. Click on the first one, ‘coordinates’.\nWe also want the name of the individual to appear when you hover over the point. To do this, change the ‘Tooltip’ option to ‘itemLabel’.\nExperiment with changing the point colour, and choosing to size by something in your data.\nClick ‘Add layer’ to create the points on your map. You’ve just created a basic interactive map, congratulations! You can move the map around by clicking and dragging, and hovering over a point will display the relevant data."
+  },
+  {
+    "objectID": "assignment0-2.html#add-a-map-layer",
+    "href": "assignment0-2.html#add-a-map-layer",
+    "title": "Mini Assignment 2: Mapping",
+    "section": "Add a map layer",
+    "text": "Add a map layer\nAs an optional step, you can change or add different background maps to your Palladio map, for example one containing modern roads and cities, or a historic map.\nTo do this, click on ‘New Layer’ again. This time, click on the ‘Tiles’ tab. You can select an existing tileset here, or add your own using the ‘Custom tiles’ option.\nTo add custom tiles, you need the appropriate ‘Tileset URL’. One place to find these is a resource called David Rumsey Maps. Go to https://rumsey.mapranksearch.com/, and find a map you are interested in on the right hand side. Click into the map, and then on the thumbnail of it on the bottom-right of the screen. Click ‘This map’ on the next screen:\n\nFinally, you’ll need to make a free account on David Rumsey maps, or log in through Google. Once this is done you’ll see three text boxes. Copy and paste the text from the final one (XYZ link), and paste this into the ‘Titleset URL’ box on Palladio, and click ‘add layer’:\n\n\nOnce you are finished, take a screenshot of your map, write a 200-300 word description, create a .pdf with the screenshot and description, and upload to the assignment on Brightspace."
+  },
+  {
+    "objectID": "assignment0-2.html#make-a-storymap",
+    "href": "assignment0-2.html#make-a-storymap",
+    "title": "Mini Assignment 2: Mapping",
+    "section": "Make a StoryMap",
+    "text": "Make a StoryMap\nThe tool we’re going to use is called StoryMap JS. It’s quite straightforward to use, so the challenge will be to find a story which has a number of geographic locations related to it. You could choose an event in history, a recent news event which took place in several locations, or something else entirely.\nTo begin with, go to https://storymap.knightlab.com/ and click on ‘Make a StoryMap’.\n\nIt will ask you to log in with a Google account - there’s no way around this unfortunately.\nOnce logged in, create a new map.\nBefore you begin, check out the ‘options’ at the top of the page. Most are self-explanatory, but one to note is ‘Treat as:’, which can be either ‘image’ or ‘cartography’. For our purposes, the only difference is that with ‘image’ selected, there will not be a line drawn between points on the map.\nThe starting slide is a special slide which will show all the points from your subsequent slides. Add a headline and text, or an image which represents your map as a whole. Use ‘preview’ at the top of the map to see what it will look like to the user.\nOnce you’re happy, add a new slide. Again, you can give it a name, add text, or add an image or even a youtube video as a URL. Next, you want to associate the slide with a geographic location. To do this, use the text box at the bottom of the map. You can either add coordinates directly (these can be found easily using Google maps, ask me if you’re not sure), or you can search for a place. Search for a location, for example ‘Paris’. Click on the correct one, making sure that you don’t select another place with the same name. To add coordinates, enter in the format as specified in the text box.\nContinue until you have finished with your slides, and check how it looks using the Preview.\nMake sure to save your work, and when you’re finished, click ‘share’. Copy the URL into a .pdf, along with a short description of your map and the motivation behind it, and upload to the relevant area on Brightspace."
+  },
+  {
+    "objectID": "assignment0-2.html#create-a-map-using-the-programming-language-r.",
+    "href": "assignment0-2.html#create-a-map-using-the-programming-language-r.",
+    "title": "Mini Assignment 2: Mapping",
+    "section": "Create a map using the programming language R.",
+    "text": "Create a map using the programming language R.\nFor this, you need to run a coding notebook through a service called MyBinder. To load the notebook, click the button below:\n\n\n\nBinder\n\n\nOnce this loads (it might take a few minutes), you’ll see a coding notebook. Be prepared to have one of the other tutorials as plan B, as sometimes this service doesn’t work!\nAnother important thing to note is that Binder doesn’t save your data - in fact, if it is idle for ten minutes, it will be deleted. So if you make lots of changes or if you want to download your output, make sure you do so as soon as possible.\nOpen the notebook on the bottom-right hand side.\nThe notebook is divided into ‘cells’. Each cell contains some code. Run the cell by clicking the small triangle on the top right. The code will run and the results (if any) will display underneath the cell.\nThe first cell loads some libraries (packages of code) needed.\nThe next cell downloads data from Open Street Map. Open street map contains thousands of types of data, from roads and rivers to amenities such as bars and restaurants. You can use a coding language to access this and draw a map.\nHere I have downloaded all places marked as a pub within the centre of Leiden. To do so, first we specify a ‘bounding box’, which tells the code to only download data from within a certain box on the map. Next, we specify what type of data, first general (‘amenity’) and then specific (‘pub’). Then do the same to get residential streets, and canals.\nNext are a couple of tricks to get the actual geographic data (points and lines), but it’s not worth going into the details.\nOnce you run this cell, it will download all the relevant data.\nThe final cell turns it into a simple map. We add each of the data points as layers to the map. When you run the cell, you’ll see the map underneath.\nYou can try swapping in different data points to download, and even try with another city. For the former, the full list is available here: https://wiki.openstreetmap.org/wiki/Map_features\nTo use another city, you’ll need to get the correct coordinates for the box it is contained within. You can use a bounding box tool, and then copy this into the first part of the command.\nFor next week, finish off your map, be prepared to discuss in class."
+  },
+  {
+    "objectID": "assignment0-1.html",
+    "href": "assignment0-1.html",
+    "title": "Mini-Assignment 1: Create a Data Visualisation",
+    "section": "",
+    "text": "For this assignment, you will create a data visualisation using a dataset of your choice, and the web application Rawgraphs.io. You should pay attention to the design principles and approaches to graphical displays we have discussed this week in class and in the reading.\nDetailed tutorials are available on the rawgraphs website: https://www.rawgraphs.io/learning, but these steps should get you started:"
+  },
+  {
+    "objectID": "assignment0-1.html#open-the-application",
+    "href": "assignment0-1.html#open-the-application",
+    "title": "Mini-Assignment 1: Create a Data Visualisation",
+    "section": "Open the application",
+    "text": "Open the application\nRawgraphs.io runs on any modern web browser, so getting started is simple. Open https://www.rawgraphs.io/ on your computer (a computer is much better than a tablet, if possible).\nClick the big ‘use it now’ button."
+  },
+  {
+    "objectID": "assignment0-1.html#load-some-data",
+    "href": "assignment0-1.html#load-some-data",
+    "title": "Mini-Assignment 1: Create a Data Visualisation",
+    "section": "Load some data:",
+    "text": "Load some data:\nThe starting-point for any data visualisation is some data. Learning to work with data is an essential part of digital design, so it’s worth familiarising yourself with how this works. If you get stuck, there are some data samples (click on ‘Try our data samples’), but you’ll miss a pretty important step.\nRawgraphs works with data in tabular format - that is, data where the columns separated by commas or tabs, and each row is a new line. This is a very common format used in spreadsheet software and online.\nYou can use any dataset you like. If you have one, the easiest option is to open it in a spreadsheet application (Excel, or Google sheets), and copy and paste the entire thing to the data input box in Rawgraphs.\nIf you don’t have a dataset, here are instructions for two methods to find and copy data to rawgraphs. First, pasting a dataset directly from Github and second, using Google sheets to load a table from Wikipedia.\n\n1. Loading a dataset from Github\nThe website Github contains many datasets from various projects, which have been made available for use by others. We’ll select a dataset originally made for the data journalism website Pudding.cool.\nFirst, go to the public data ‘repository’ for the site: https://github.com/the-pudding/data/. Here, you’ll see a bunch of individual folders. Each one contains a dataset (or multiple datasets), corresponding to articles from the site:\n\n\nOpen the relevant folder\nAs an example, we’ll use a dataset of models and skintones which was originally part of the 2019 story ‘Colorism in High Fashion’.\nOpen the ‘Vogue’ folder. The first thing you should do is read the description underneath to understand what the dataset is about.\nThe data description tells us there are two datasets here: faces.csv and models.csv. The faces.csv dataset lists every model from the front cover of Vogue over a certain time period, along with a ‘lightness’ value of between 0 and 1. We’ll import this dataset to Rawgraphs and graph these lightness values over time.\n\n\nGet the link for the .csv file.\nTo import to Rawgraphs, we need a url (web address) pointing directly to the dataset. To get this, first click on the faces.csv file, which will open in a tabular format. Next, click the ‘raw’ button at the top-right of the dataset:\n\n\n\nCopy the url\nThis will open the file itself in your browser. Copy and paste the url (in this case, it’s https://raw.githubusercontent.com/the-pudding/data/master/vogue/faces.csv).\n\n\nImport to Rawgraphs\nOpen rawgraphs in another tab, if you haven’t already. In the load your data screen, click on ‘from URL’:\n\nPaste the web address into the box which appears here, and click ‘load data’. The data will appear, in tabular form.\n\n\nEnsure the data are of the correct ‘type’.\nAs we’ll learn over the next few weeks, computers have to be told what ‘type’ of data they have been given. In many software, they will make guesses, but these are not always correct. For example, in order for Rawgraphs to correctly render this data along a timeline, we need to specify that the ‘date’ column is in fact, a date. You’ll notice that the first column contains a date, in the format DD/MM/YYYY. However, rawgraphs is currently interpreting this as regular text characters (also known as a ‘string’).\nTo fix this, click on the ‘Aa’ icon to the left of the word date in the first column. Next, click on the ‘date’ item in the dropdown menu which appears. Finally, click on the correct date format (DD/MM/YYYY).\nAt this point, you can move onto the next step, and create your visualisation. Or, keep reading for another method to get data.\n\n\n\n2. Load data from Wikipedia tables using Google Sheets.\nThis method involves a tiny bit of ‘coding’, but it is a neat trick and maybe be useful when you come to thinking about getting hold of data of interest to you.\nAs you’ll probably know, Wikipedia contains many thousands of datasets within its pages - in the form of online tables. The highest-grossing movies of all time, for example, or the longest rivers in the world.\nThese make great datasets for many types of visualisations, but there are a few steps needed to import this to Rawgraphs. You’ll need to open a Google sheets spreadsheet, enter a special formula in the first cell, and then copy and paste the data directly to Rawgraphs.\n\nOpen Google sheets\nGoogle sheets is a free online spreadsheet program. If you don’t have a google account, you’ll need to set one up beforehand. Go to the application, for example through https://www.google.com/sheets/about or just through your own google profile, and create a blank sheet.\nNext, copy and paste the following code into the first cell (A1) of your spreadsheet:\n=IMPORTHTML(\"https://en.wikipedia.org/wiki/List_of_highest-grossing_films\",\"table\", 1)\nThis has a few elements - you should understand what each of them does:\nIMPORTHTML(: this is the special Google sheets formula which allows you to import a table from a web page. Everything else goes within parentheses after the formula name.\nNext are three elements, each separated by a comma (note that the first two are within quotation marks, the third is not):\n\n\"https://en.wikipedia.org/wiki/List_of_highest-grossing_films\" is the url to the wikipedia page where the table is contained (you can swap this for any other one you’re interested in)\n\"table\" tells the formula to find a table\n1 tells the formula to take the first table on the page. You may have to use a different number if there are multiple tables, and you want a different one.\n\nOnce you’ve copied in this to the first cell, press return. After a few seconds, the formatted table should appear.\n\n\nFix the numbers formatting\nThe data we want to visualise is the ‘worldwide gross’ column. The number in this column is in a format not suitable for reading by a computer. First of all, most values have a dollar sign before the value, second, the values are separated by commas, and third, some have errors. Rawgraphs will expect numbers in the same currency and without the dollar sign.\nBefore we fix these, we need to make a small change to the data. At the moment, the data is reliant on being pulled live from the web page. We want to replace it with a regular copy.\nClick and drag to select all the data. Click edit->cut, and then edit->paste special->values only.\nNext, fix the errors which happened during the import. In lines 20, 22, and 50, delete the characters and numbers to the right of the dollar sign.\nTo get rid of the dollar signs, use Google Sheets ‘find and replace’ tool. First, select the entire ‘worldwide gross column. Next, click on Edit->find and replace. Type a dollar sign in the first box, leave the second box empty, and then click ’replace all’.\nLast, tell Google sheets that this is a number. Select the ‘worldwide gross’ column, and click format->number->automatic.\n\n\nCopy and paste the data to Rawgraphs\nHighlight the data, use edit-> copy. Make sure you have the ‘Paste your data’ option selected in rawgraphs, and simply paste it in using right click."
+  },
+  {
+    "objectID": "assignment0-1.html#draw-your-chart",
+    "href": "assignment0-1.html#draw-your-chart",
+    "title": "Mini-Assignment 1: Create a Data Visualisation",
+    "section": "Draw your chart",
+    "text": "Draw your chart\nOnce your data is loaded using one of these methods, scroll down on the Rawgraphs site to see the chart options available to you. For this week, it’s best to stick with something simple, for instance a bar chart, bubble plot, or line graph. See the Financial Times’ Visual Vocabulary for more information which chart is suitable for your particular data. We’ll use another wikipedia table, taken from https://en.wikipedia.org/wiki/List_of_sovereign_states_by_wealth_inequality, to visualise the wealth and Gini coefficient of nation states.\nSome other interesting examples I’ve come across are this dataset of Hollywood age gaps:\nhttps://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-02-14/age_gaps.csv\nAnd this of the ‘Bechdel test’: https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-03-09/movies.csv\nOnce you have selected the ‘bubble chart’ option, scroll down to the ‘mapping’ section. Here, you can drag columns from your data to be mapped to particular geometries. Drag ‘GDP per capita’ to the ‘X-axis’ and ‘Nominal GDP’ to the y-axis.\nFrom here, experiment with the options available. You can set more columns to visual elements, for example drag ‘population’ to the ‘size’ option. Add labels for the countries by dragging ‘Country’ to ‘label’. Play around with the colours, labels, and margins, until you’re happy with your plot."
+  },
+  {
+    "objectID": "assignment0-1.html#section",
+    "href": "assignment0-1.html#section",
+    "title": "Mini-Assignment 1: Create a Data Visualisation",
+    "section": "",
+    "text": "If you have time, consider choosing a colour palette using an online resource such as the Data Color Picker."
+  },
+  {
+    "objectID": "assignment0-1.html#describe-your-chart",
+    "href": "assignment0-1.html#describe-your-chart",
+    "title": "Mini-Assignment 1: Create a Data Visualisation",
+    "section": "Describe your chart",
+    "text": "Describe your chart\nYou should spend some time thinking about what your chart is trying to say, and use visual elements as far as possible to say it. Try not to simply produce a complex chart with many different elements, but think about how it might be read and how it helps us to process the data and the narrative around it.\nWhen you’re happy with your visualisation, export it as a .png using the last section on the site. After this, you’ll need to write a detailed caption for your chart. This should explain to the viewer what they are looking at, and how they should read it. It should also explain the steps you took to get hold of the data, how/if you pre-processed it, and any warnings about the data or the visualisation the reader should know about. This should be about 300 words at most.\nAs an example of how you might describe the chart above:\n\nThis chart plots the division of wealth inequality across most nation states on earth. The data has been scraped from the Wikipedia page: https://en.wikipedia.org/wiki/List_of_sovereign_states_by_wealth_inequality, using Google sheets. The data was preprocessed to remove missing values and to fix small errors. The wikipedia page states that the data is correct for 2018, and the Gini index for 2019. A small caveat is that Ireland does not generally use GDP as a measure of wealth, because of its use by many multi-national companies.\nThe chart plots the overall wealth of the country on the y-axis (GDP), against the GDP per capita on the x-axis. I chose to use a bubble plot because I wanted to emphasise the relationship (correlation) between the two variables. If we imagine a diagonal line running from the bottom-left to the top-right of the chart, countries above/to the left of that line have large economies but are poorer, and countries below/to the right have smaller economies but are richer per person. In addition, the Gini index (a measure of the distribution of wealth in a country) is visualised using a diverging colour scale: less equal countries are towards the red end of the colour spectrum; more equal countries are blue, and those in the middle are grey.\nThis chart has some issues with readability. Because most countries have a small GDP and GDP per capita, it is difficult to read the values in the bottom-left of the chart. If I want to develop this for my visual portfolio, I will think about different ways of making it more readable, perhaps by having separate charts for the smaller countries, and putting them together afterwards."
+  },
+  {
+    "objectID": "assignment0-1.html#upload-to-brightspace",
+    "href": "assignment0-1.html#upload-to-brightspace",
+    "title": "Mini-Assignment 1: Create a Data Visualisation",
+    "section": "Upload to Brightspace",
+    "text": "Upload to Brightspace\nCreate a document in MS word. Import your chart, and write your description below it. Export this as a .pdf, and upload to the correct area on Brightspace."
+  },
+  {
+    "objectID": "assignment-2.html",
+    "href": "assignment-2.html",
+    "title": "Multiple Choice Test",
+    "section": "",
+    "text": "See the Brightspace page for more details."
+  },
+  {
+    "objectID": "assignment-3.html",
+    "href": "assignment-3.html",
+    "title": "Assignment 3: Visual Portfolio",
+    "section": "",
+    "text": "The purpose of this assignment is to create a digital visual portfolio that showcases your digital storytelling skills and creativity in the field of humanities. These can utilise the visualisations or interactives you made in the short assignments, but you do not need to use them. You can also choose to create alternative digital forms of storytelling as long as they are substantially original work and are primarily visual, for example web comics, memes, 3D visualisations/models, VR/AR stories.\n\n\n\nYour portfolio should include at least three digital stories created during the course. These projects should demonstrate your understanding of various digital storytelling techniques and the use of different digital tools. Pick a subject (or subjects) you are familiar with and think could benefit from being presented in this format. It is up to you whether or not your three objects are linked together.\nYou can start from scratch if you wish. Suitable sources of data include. Bear in mind that most will require some work to get in the correct format before using!\n\n\n\nYour portfolio should be either a series of static data visualisations, or a set of shareable interactive objects such as timelines, interactive plots, interactive stories, or a mix of all of the above. See below for specifics on how to submit. You can make use of online modes of presentation if you wish (such as a Wordpress blog or using the Exhibit.so app, but at a minimum you should submit a compressed folder containing your objects (or links) and the portfolio report, directly through Brightspace.\n\n\n\nIn addition to visual presentations of each project, you should include a detailed report on your portfolio, totalling 1500-2000 words. The following are suggested headings, but it doesn’t need to take exactly this form.\n\nContext: What is the subject background for your portfolio objects? Why were you interested in this particular subject, and how did you collect the data?\nDescription: take the user through your digital stories - teaching them how to ‘read’ it where necessary. What does each one show, and what does this tell us about your subject? Why have you chosen to present this particular topic/theme/subject to the user in this way, and how does it benefit from it? Does it make a complex topic easier to grasp, or does it aim to have an emotional impact?\nChallenges: What was difficult about the process at the outset? Did you have to deal with data issues or uncertainty? What would you do differently if you were to start again?\nCreative process and decision making: explain the process and thinking behind your design choices. If you have made visualisations, how did you use colour, shape, geometry to aid the user? How do you expect a user to ‘read’ your visualisations. If you have chosen other formats, write about your creative process and how you used different design elements to get across your chosen narratives.\nReflection: How well to you think you achieved your aims? What have you learned about design and how do you think you could apply it to your own work in the future? How have you had to change your approach to narratives to suit the particular medium you’ve chosen?\n\nIf your visualisations are linked, you can write one longer report, or three shorter ones if they are separate.\n\n\n\nIf you choose static visualisations, create a folder with high-quality images or .pdfs (or .svg) plus a pdf containing your project report. Give the images sensible names, and include a caption (a short description) for each one in the .pdf, linked to the image name. Zip this file and upload it all to Brightspace.\nIf your digital stories need to be viewed online through a browser, upload a single .pdf to brightspace. Include your project report, and underneath provide web links to your portfolio objects, with a description (like a caption) underneath each.\nIf for some reason neither of these methods work for your particular format, please get in touch with me well in advance to discuss how they should be submitted.\n\n\n\nYou will be given an overall grade (out of 5) based on the following criteria:\n\nSuitability of data and story\nTechnical ability\nAesthetics\nReport/reflection"
+  },
+  {
+    "objectID": "assignment-1.html",
+    "href": "assignment-1.html",
+    "title": "Assignment 1: Critique of Digital Story",
+    "section": "",
+    "text": "For this assignment, you will carry out a critique of a ‘digital story’. You can pick your own resource or use one we have looked at over the past few weeks. Your digital story can be any natively-digital object which tries to convey a narrative to a user. It could be a data visualisation (static or interactive), an interactive story, a narrative game, a timeline, a ‘StoryMap’, or a piece of data journalism.\n\n\nWrite a detailed critique of your chosen object, answering the following questions (use a separate heading for each:\n\nBasic description - what does it look like, what data was used, what are the aims and does it succeed?\nAudience - who was it made for?\n‘User journey’: describe the steps taken by the user through the resource. How are we meant to ‘read’ it?\nData visualisation techniques\n\nWhat type of data visualisation(s) does it include? E.g. hierarchical, relational\nHow does it encode color, geometry, shapes, interactivity, other elements? Do they map intuitively to things?\nWhich principles of design does it use, e.g. simplicity, closure, distance?\n\nProblems and caveats\n\nWhat is missing? How does the resource deal with missing data?\n\nName three elements which worked well, and why\nName three elements you think could have been improved, and give reasons.\n\nSome of you will be asked to discuss their journey during the seventh week (20 March)."
+  },
+  {
+    "objectID": "assignment-1.html#submission",
+    "href": "assignment-1.html#submission",
+    "title": "Assignment 1: Critique of Digital Story",
+    "section": "Submission",
+    "text": "Submission\nSubmit a .pdf containing the report, including screenshots (annotated) of the resource used. The report should be approximately 1500-2000 words."
+  },
+  {
+    "objectID": "assignment-1.html#some-resources",
+    "href": "assignment-1.html#some-resources",
+    "title": "Assignment 1: Critique of Digital Story",
+    "section": "Some resources",
+    "text": "Some resources\nHere are some places you might find digital stories of interest:\nhttps://pudding.cool/\nhttps://www.scmp.com/infographic/ (subscription needed for some, but some seem to work)\nhttps://www.rawgraphs.io/gallery\nhttps://storymap.knightlab.com/#examples (some dead links, unfortunately)"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week \n    Date \n    Topic \n    Section \n    Assignment \n    Practical/software used \n  \n \n\n  \n    1 \n    2023-02-06 \n    Intro, course overview \n    - \n    - \n    - \n  \n  \n    2 \n    2023-02-13 \n    Data visualisation basics \n    Stories through Data Visualisation \n    - \n    Rawgraphs.io \n  \n  \n    3 \n    2023-02-20 \n    Mapping \n    Stories through Data Visualisation \n    Data visualisation assignment 1 \n    StoryMap/Palladio \n  \n  \n    4 \n    2023-02-27 \n    Networks \n    Stories through Data Visualisation \n    Data visualisation assignment 2 \n    Palladio/Gephi \n  \n  \n    5 \n    2023-03-06 \n    Visualising time \n    Stories through Data Visualisation \n    Data visualisation assignment 3 \n    Rawgraphs.io/Palladio \n  \n  \n    6 \n    2023-03-13 \n    Ethics and Representation in Data Visualisation \n    Stories through Data Visualisation \n    - \n    - \n  \n  \n    7 \n    2023-03-20 \n    Section recap & critique presentation \n    Stories through Data Visualisation \n    Critique of Digital Story \n    - \n  \n  \n    - \n    - \n    No class \n    - \n    - \n    - \n  \n  \n    8 \n    2023-04-03 \n    Timelines \n    Interactivity \n    - \n    JS StoryLab \n  \n  \n    - \n    - \n    Exam week \n    - \n    - \n    - \n  \n  \n    9 \n    2023-04-17 \n    Nodegoat \n    Interactivity \n    - \n    Nodegoat \n  \n  \n    10 \n    2023-04-24 \n    Online exhibits \n    Sharing stories \n    Multiple choice test \n    Exhibit.so \n  \n  \n    11 \n    2023-05-01 \n    Online exhibits \n    Sharing stories \n    - \n    Exhibit.so \n  \n  \n    12 \n    2023-05-08 \n    Storytelling through code (and methods) \n    Sharing stories \n    - \n    Google Colab \n  \n  \n    13 \n    2023-05-15 \n    Outro \n    - \n    Visual Portfolio \n    -"
+  }
+]

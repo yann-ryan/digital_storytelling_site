@@ -1,0 +1,52 @@
+---
+title: "Assignment 1: Critique of Digital Story"
+editor: visual
+---
+
+## Description
+
+For this assignment, you will carry out a critique of a 'digital story'. You can pick your own resource or use one we have looked at over the past few weeks. Your digital story can be any natively-digital object which tries to convey a narrative to a user. It could be a data visualisation (static or interactive), an interactive story, a narrative game, a timeline, a 'StoryMap', or a piece of data journalism.
+
+### Report
+
+Write a detailed critique of your chosen object, answering the following questions (use a separate heading for each:
+
+-   **Basic description** - what does it look like, what data was used, what are the aims and does it succeed?
+
+-   **Audience** - who was it made for?
+
+-   **'User journey':** describe the steps taken by the user through the resource. How are we meant to 'read' it?
+
+-   **Data visualisation techniques**
+
+    -   What type of data visualisation(s) does it include? E.g. hierarchical, relational
+
+    -   How does it encode color, geometry, shapes, interactivity, other elements? Do they map intuitively to things?
+
+    -   Which principles of design does it use, e.g. simplicity, closure, distance?
+
+-   **Problems and caveats**
+
+    -   What is missing? How does the resource deal with missing data?
+
+-   Name three elements which worked well, and why
+
+-   Name three elements you think could have been improved, and give reasons.
+
+Some of you will be asked to discuss their journey during the seventh week (20 March).
+
+## Submission
+
+Submit a .pdf containing the report, including screenshots (annotated) of the resource used. The report should be approximately 1500-2000 words.
+
+## Some resources
+
+Here are some places you might find digital stories of interest:
+
+https://pudding.cool/
+
+https://www.scmp.com/infographic/ (subscription needed for some, but some seem to work)
+
+https://www.rawgraphs.io/gallery
+
+https://storymap.knightlab.com/#examples (some dead links, unfortunately)
